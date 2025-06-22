@@ -1,12 +1,39 @@
-# React + Vite
+# 🛍️ Admin Dashboard - LMS (e-Business)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully responsive **Admin Dashboard** built for e-Business operations like managing products, categories, customers, reports, and more. It includes interactive charts, a dark mode theme, and modern UI powered by React and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+### 🔹 Dashboard View 1
+![Dashboard Screenshot 1](./src/assests/admin1.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔹 Dashboard View 2
+![Dashboard Screenshot 2](./src/assests/admin2.png)
+
+---
+
+## 🚀 Features
+
+- 📦 Product, Category, Inventory, Customer Management
+- 📊 Interactive Charts (Bar, Line, Pie, Area)
+- 🔎 Search and Filter Options
+- ⚙️ Settings with Profile and Password Management
+- 🗓️ Calendar and Kanban Board Integration
+- 🌓 Dark Mode with Elegant UI
+- 📁 Export CSV Functionality
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Tailwind CSS, Recharts
+- **Icons**: React Icons (Bootstrap-based)
+- **Routing**: React Router DOM
+- **State Management**: React Context API
+
+---
+
+## 📂 Folder Structure
+
